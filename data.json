@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fighter Trailer",
+        "video": "./videos/Fighter _ Official Trailer _ Hrithik Roshan, Deepika Padukone, Anil Kapoor _ Netflix India.mp4",
+        "thumbnail" : "./images/fighter.jpg",
+        "cast" : "Hrithik Roshan, Deepika Padukone, Anil Kapoor"
+    }, 
+    {
+        "name": "Arjan Vailly",
+        "video": "./videos/ANIMAL_ ARJAN VAILLY _ Ranbir Kapoor _ Sandeep Vanga _ Bhupinder B, Manan B _ Bhushan K.mp4",
+        "thumbnail" : "./images/thumbnail - ANIMAL.jpg",
+        "cast" : "Ranbir Kapoor, Sandeep Vanga, Bhupinder B, Manan B, Bhushan K"
+    }, 
+    {
+        "name": "Pehle Bhi Main (Animal Song )",
+        "video": "./videos/ANIMAL_Pehle Bhi Main(Full Video) _ Ranbir Kapoor,Tripti Dimri _Sandeep V _Vishal M,Raj S _Bhushan K.mp4",
+        "thumbnail" : "./images/pehle bhi main.jpg",
+        "cast"  :"Ranbir Kapoor, Tripti Dimri, Sandeep V, Vishal M, Raj S, Bhushan K"
+    }, 
+    {
+        "name": "Shaitaan Trailer",
+        "video": "./videos/shaitaan.mp4",
+        "thumbnail" : "./images/shaitaan.avif",
+        "cast": "R Madhavan, Radhika Apte, Neeraj Kabi"
+    }, 
+    {
+        "name": "Yimmy Song",
+        "video": "./videos/yimmy.mp4",
+        "thumbnail" : "./images/yimmy.jpg",
+        "cast" : "Jacqueline Fernandez, Yimmy Yayo"
+    }  
+]
